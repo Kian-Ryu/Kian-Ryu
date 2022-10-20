@@ -1,3 +1,5 @@
+<image src ='images/20171212_5a2ea716c5d24.gif'></image>
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=최강%20개발자&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Kian-Ryu)](https://github.com/Kian-Ryu)
